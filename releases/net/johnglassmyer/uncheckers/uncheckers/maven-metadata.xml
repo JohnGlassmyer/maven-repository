@@ -3,11 +3,12 @@
   <groupId>net.johnglassmyer.uncheckers</groupId>
   <artifactId>uncheckers</artifactId>
   <versioning>
-    <release>20180805b</release>
+    <release>20180805c</release>
     <versions>
       <version>20180805</version>
       <version>20180805b</version>
+      <version>20180805c</version>
     </versions>
-    <lastUpdated>20180805144701</lastUpdated>
+    <lastUpdated>20180805163522</lastUpdated>
   </versioning>
 </metadata>
