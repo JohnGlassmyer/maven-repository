@@ -3,10 +3,11 @@
   <groupId>net.johnglassmyer.todo</groupId>
   <artifactId>todo</artifactId>
   <versioning>
-    <release>20180806</release>
+    <release>20180806b</release>
     <versions>
       <version>20180806</version>
+      <version>20180806b</version>
     </versions>
-    <lastUpdated>20180807032841</lastUpdated>
+    <lastUpdated>20180807033816</lastUpdated>
   </versioning>
 </metadata>
