@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.johnglassmyer.uncheckers</groupId>
+  <artifactId>parent</artifactId>
+  <versioning>
+    <release>20180805d</release>
+    <versions>
+      <version>20180805</version>
+      <version>20180805b</version>
+      <version>20180805c</version>
+      <version>20180805d</version>
+    </versions>
+    <lastUpdated>20180805212759</lastUpdated>
+  </versioning>
+</metadata>
